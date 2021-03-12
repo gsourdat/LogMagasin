@@ -1,0 +1,14 @@
+Customer : 
+	créer commande
+	lister articles
+	lister commandes
+	créer compte
+
+
+
+Seller :
+	lister articles
+	lister commandes
+	supprimer customer
+	modifier status commande
+	gérer les articles
